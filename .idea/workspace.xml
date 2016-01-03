@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc75ba4c-8343-4e1c-b651-cb11318c2415" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\ws\startup\ng-spring-boot-master\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="D:\ws\startup\ng-spring-boot-master\.idea\compiler.xml" afterPath="" />
       <change type="DELETED" beforePath="D:\ws\startup\ng-spring-boot-master\.idea\copyright\profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\ws\startup\ng-spring-boot-master\.idea\encodings.xml" afterPath="" />
       <change type="DELETED" beforePath="D:\ws\startup\ng-spring-boot-master\.idea\libraries\Maven__antlr_antlr_2_7_7.xml" afterPath="" />
       <change type="DELETED" beforePath="D:\ws\startup\ng-spring-boot-master\.idea\libraries\Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
       <change type="DELETED" beforePath="D:\ws\startup\ng-spring-boot-master\.idea\libraries\Maven__dom4j_dom4j_1_6_1.xml" afterPath="" />
@@ -16,11 +13,7 @@
       <change type="DELETED" beforePath="D:\ws\startup\ng-spring-boot-master\.idea\libraries\Maven__org_jboss_jandex_1_1_0_Final.xml" afterPath="" />
       <change type="DELETED" beforePath="D:\ws\startup\ng-spring-boot-master\.idea\libraries\Maven__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" afterPath="" />
       <change type="DELETED" beforePath="D:\ws\startup\ng-spring-boot-master\.idea\libraries\Maven__xml_apis_xml_apis_1_0_b2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\ws\startup\ng-spring-boot-master\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\ws\startup\ng-spring-boot-master\.idea\modules.xml" afterPath="" />
       <change type="DELETED" beforePath="D:\ws\startup\ng-spring-boot-master\.idea\scopes\scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\ws\startup\ng-spring-boot-master\.idea\uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\ws\startup\ng-spring-boot-master\.idea\vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="D:\ws\startup\ng-spring-boot-master\.idea\workspace.xml" afterPath="" />
     </list>
     <ignored path="ng-spring-boot.iws" />
@@ -253,7 +246,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -503,6 +495,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -838,7 +831,7 @@
       <workItem from="1450384524189" duration="1251000" />
       <workItem from="1451747886535" duration="9415000" />
       <workItem from="1451761320030" duration="2312000" />
-      <workItem from="1451810281463" duration="11525000" />
+      <workItem from="1451810281463" duration="11607000" />
     </task>
     <task id="LOCAL-00001" summary="js dependencies">
       <created>1450384932016</created>
@@ -852,11 +845,17 @@
       <option name="project" value="LOCAL" />
       <updated>1451847093777</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="delete intellij idea settings">
+      <created>1451847411483</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1451847411483</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27503000" />
+    <option name="totallyTimeSpent" value="27585000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -909,7 +908,8 @@
     </option>
     <MESSAGE value="js dependencies" />
     <MESSAGE value="switched to postgres, added user regitration" />
-    <option name="LAST_COMMIT_MESSAGE" value="switched to postgres, added user regitration" />
+    <MESSAGE value="delete intellij idea settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete intellij idea settings" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

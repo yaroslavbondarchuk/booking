@@ -15,6 +15,7 @@
       <change type="DELETED" beforePath="D:\ws\startup\ng-spring-boot-master\.idea\libraries\Maven__xml_apis_xml_apis_1_0_b2.xml" afterPath="" />
       <change type="DELETED" beforePath="D:\ws\startup\ng-spring-boot-master\.idea\scopes\scope_settings.xml" afterPath="" />
       <change type="DELETED" beforePath="D:\ws\startup\ng-spring-boot-master\.idea\workspace.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="ng-spring-boot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -84,7 +85,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.123411976" vertical-offset="0" max-vertical-offset="551">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -831,7 +832,7 @@
       <workItem from="1450384524189" duration="1251000" />
       <workItem from="1451747886535" duration="9415000" />
       <workItem from="1451761320030" duration="2312000" />
-      <workItem from="1451810281463" duration="11607000" />
+      <workItem from="1451810281463" duration="11630000" />
     </task>
     <task id="LOCAL-00001" summary="js dependencies">
       <created>1450384932016</created>
@@ -851,11 +852,17 @@
       <option name="project" value="LOCAL" />
       <updated>1451847411483</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="delete intellij idea settings">
+      <created>1451847481495</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1451847481495</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27585000" />
+    <option name="totallyTimeSpent" value="27608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -1348,7 +1355,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.123411976" vertical-offset="0" max-vertical-offset="551">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>

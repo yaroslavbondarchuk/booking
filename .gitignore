@@ -2,4 +2,4 @@
 .classpath
 .settings/
 target/
-bower_components/
+.idea/

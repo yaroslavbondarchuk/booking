@@ -1,5 +1,5 @@
 (function(angular) {
-  angular.module("myApp.controllers", []);
-  angular.module("myApp.services", []);
-  angular.module("myApp", ["ngResource", "myApp.controllers", "myApp.services"]);
+  angular.module("book.controllers", []);
+  angular.module("book.services", []);
+  angular.module("book", ["ngResource", "book.controllers", "book.services"]);
 }(angular));
